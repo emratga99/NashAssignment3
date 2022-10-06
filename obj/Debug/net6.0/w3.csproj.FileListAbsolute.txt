@@ -1,0 +1,15 @@
+C:\Users\do1lo\assignment\w3\bin\Debug\net6.0\w3.exe
+C:\Users\do1lo\assignment\w3\bin\Debug\net6.0\w3.deps.json
+C:\Users\do1lo\assignment\w3\bin\Debug\net6.0\w3.runtimeconfig.json
+C:\Users\do1lo\assignment\w3\bin\Debug\net6.0\w3.dll
+C:\Users\do1lo\assignment\w3\bin\Debug\net6.0\w3.pdb
+C:\Users\do1lo\assignment\w3\obj\Debug\net6.0\w3.csproj.AssemblyReference.cache
+C:\Users\do1lo\assignment\w3\obj\Debug\net6.0\w3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\do1lo\assignment\w3\obj\Debug\net6.0\w3.AssemblyInfoInputs.cache
+C:\Users\do1lo\assignment\w3\obj\Debug\net6.0\w3.AssemblyInfo.cs
+C:\Users\do1lo\assignment\w3\obj\Debug\net6.0\w3.csproj.CoreCompileInputs.cache
+C:\Users\do1lo\assignment\w3\obj\Debug\net6.0\w3.dll
+C:\Users\do1lo\assignment\w3\obj\Debug\net6.0\refint\w3.dll
+C:\Users\do1lo\assignment\w3\obj\Debug\net6.0\w3.pdb
+C:\Users\do1lo\assignment\w3\obj\Debug\net6.0\w3.genruntimeconfig.cache
+C:\Users\do1lo\assignment\w3\obj\Debug\net6.0\ref\w3.dll
